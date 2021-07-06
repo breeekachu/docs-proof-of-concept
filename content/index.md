@@ -9,6 +9,10 @@ What about meowing? Or barking? Meow!
 Test! Look at the counter!!
 <counter></counter>
 
+My very useful contribution is here! test meow bark!
+
+<counter></counter>
+
 This site is a quick guide and demo of Nuxt content and components. View the relevant documentation here:
 
 - [Nuxt content](https://github.com/nuxt/content)
