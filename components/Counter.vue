@@ -1,22 +1,22 @@
 <template>
   <div>
-    <button>-</button>
-    <div>{{ count }}</div>
-    <button>+</button>
+    <button @click="change(-1)">-</button>
+    <span>{{ count }}</span>
+    <button @click="change(1)">+</button>
   </div>
 </template>
 
 <script>
 export default {
-  date() {
+  data() {
     return {
-      count: 0
-    }
+      count: 0,
+    };
   },
   methods: {
     change(val) {
-      count += val;
-    }
+      this.count += val;
+    },
   },
-}
+};
 </script>

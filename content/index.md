@@ -3,7 +3,14 @@ title: Nuxt Content Example
 description: An example for the new @nuxt/content and @nuxt/components modules
 ---
 
+What about meowing? Or barking? Meow!
+
+<strong>Mew!</strong>
+Test! Look at the counter!!
+<counter></counter>
+
 This site is a quick guide and demo of Nuxt content and components. View the relevant documentation here:
+
 - [Nuxt content](https://github.com/nuxt/content)
 - [Nuxt components](https://github.com/nuxt/components)
 
